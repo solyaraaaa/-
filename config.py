@@ -1,0 +1,1 @@
+main_token = 'YOUR TOKEN FROM VK API'
